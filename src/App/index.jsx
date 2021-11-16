@@ -1,15 +1,37 @@
 import { Canvas } from "@react-three/fiber";
-
 import Content from "./Content";
+import React from "react";
 
-const App = () => {
-  return (
-    <div className="room">
-      <Canvas camera={{ position: [10,50,10], fov: 120, zoom: 11}}>
-        <Content linear={false} shadows={true} />
-      </Canvas>
-    </div>
-  );
+class App extends React.Component {
+
+   // fake authentication Promise
+   authenticate(){
+    return new Promise(resolve => setTimeout(resolve, 2000)) // 2 seconds
+  }
+
+  componentDidMount(){
+    this.authenticate().then(() => {
+      const ele = document.getElementById('ipl-progress-indicator')
+      if(ele){
+        // fade out
+        ele.classList.add('available')
+        setTimeout(() => {
+          // remove from DOM
+          ele.outerHTML = ''
+        }, 2000)
+      }
+    })
+  }
+  
+  render() {
+    return (
+      <div className="room">
+        <Canvas camera={{ position: [10,50,10], fov: 120, zoom: 11}}>
+          <Content linear={false} shadows={true} />
+        </Canvas>
+      </div>
+    );
+  }
 };
 
 export default App;
