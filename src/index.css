@@ -5,6 +5,7 @@ canvas {
   height: 100vh;
   width: 100vw;
   font-family: Roboto, sans-serif;
+  overflow: hidden;
 }
 
 body {
@@ -29,3 +30,11 @@ body {
 span {
   color: yellow;
 }
+.room {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+  width: 50%;
+  height: 100vh;
+}
+

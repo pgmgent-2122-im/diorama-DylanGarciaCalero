@@ -9,7 +9,7 @@ const Monitors = () => {
     return (
       <group ref={group} dispose={null}>
         <group
-          position={[-3.43, 2.4, -1.24]}
+          position={[-3.40, 2.4, -1.24]}
           rotation={[Math.PI / 2, 0, -1.22]}
           scale={[0.74, 0.43, 0.43]}>
           <mesh
@@ -26,7 +26,7 @@ const Monitors = () => {
           />
         </group>
         <group
-          position={[-3.69, 2.4, 0.3]}
+          position={[-3.66, 2.4, 0.3]}
           rotation={[Math.PI / 2, 0, -Math.PI / 2]}
           scale={[0.74, 0.43, 0.43]}>
           <mesh
