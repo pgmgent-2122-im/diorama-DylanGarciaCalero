@@ -18,7 +18,7 @@ const ClockDigital = (props) => {
     }
   });
 
-  return <Text fontSize={0.4} color="yellow" fillOpacity={0.5} position={[2.5, 4.25, -3.72]} ref={clockRef} {...props} />;
+  return <Text fontSize={0.25} color="white" fillOpacity={0.5} position={[2.38, 3.77, -3.60]} ref={clockRef} {...props} />;
 };
 
 export default ClockDigital;

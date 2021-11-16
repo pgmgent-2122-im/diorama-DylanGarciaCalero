@@ -26,7 +26,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="room">
-        <Canvas camera={{ position: [10,50,10], fov: 120, zoom: 11}}>
+        <Canvas camera={{ position: [30,70,30], fov: 120, zoom: 18}}>
           <Content linear={false} shadows={true} />
         </Canvas>
       </div>

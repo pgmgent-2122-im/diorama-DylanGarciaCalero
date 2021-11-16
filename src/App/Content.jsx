@@ -15,6 +15,7 @@ import Prullenbak from "./components/Prullenbak";
 import Painting from "./components/Painting";
 import LoremIpsum from "./components/Text";
 import ClockDigital from "./components/Clock/Digital";
+import Container from "./components/Clock";
 
 // Lighting
 import LightingGui from "./components/Lighting/indexGui";
@@ -37,6 +38,7 @@ const Content = () => {
         <Prullenbak/>
         <Painting/>
         <ClockDigital/>
+        <Container/>
       </Suspense>
     </>
   );

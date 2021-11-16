@@ -32,9 +32,9 @@ span {
 }
 .room {
   position: absolute;
-  top: 5rem;
+  top: 0;
   left: 0;
-  width: 50%;
+  width: 100%;
   height: 100vh;
 }
 
