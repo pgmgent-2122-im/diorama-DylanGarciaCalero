@@ -1,7 +1,5 @@
 import { Suspense } from "react";
-import { OrbitControls, Stats } from "@react-three/drei";
-import { useControls } from "leva";
-import * as THREE from 'three';
+import { OrbitControls } from "@react-three/drei";
 
 // Components
 import Room from "./components/CubeRoom";

@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Shippori+Antique+B1&display=swap');
 
 html,
 body,
@@ -6,6 +7,7 @@ canvas {
   width: 100vw;
   font-family: Roboto, sans-serif;
   overflow: hidden;
+  font-family: 'Shippori Antique B1', sans-serif;
 }
 
 body {
@@ -155,4 +157,91 @@ to{opacity:1}
 60%{transform:translate(0) scaleX(0)}
 80%{transform:translate(0) scaleX(.6)}
 100%{transform:translate(100%) scaleX(.1)}
+}
+
+.rotate_info {
+  width: 15rem;
+  position: absolute;
+  bottom: 7.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rotate_info p{
+  color: white;
+  text-align: center;
+  border-left: dotted rgba(255, 255, 0, 0.204) 0.2rem;
+  border-right: dotted rgba(255, 255, 0, 0.204) 0.2rem;
+  padding: 0 0.8rem;
+}
+
+.swipe {
+  width: 50%;
+  display: flex;
+  -webkit-animation:spin 6s linear infinite;
+  -moz-animation:spin 6s linear infinite;
+  animation:spin 6s linear infinite;
+  opacity: 0.3;
+}
+
+@-moz-keyframes spin { 
+  0% { -moz-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+  25% { -moz-transform: rotate(65deg);
+    opacity: 0.3;        
+  } 
+
+  50% { -moz-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+
+  75% { -moz-transform: rotate(-20deg);
+    opacity: 0.3;        
+  } 
+  100% { -moz-transform: rotate(20deg);
+          opacity: 1;        
+  } 
+}
+
+@-webkit-keyframes spin { 
+  0% { -webkit-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+  25% { -webkit-transform: rotate(65deg);
+    opacity: 0.3;        
+  } 
+
+  50% { -webkit-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+
+  75% { -webkit-transform: rotate(-20deg);
+    opacity: 0.3;        
+  } 
+  100% { -webkit-transform: rotate(20deg);
+          opacity: 1;        
+  } 
+}
+@keyframes spin { 
+  0% { -moz-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+  25% { -moz-transform: rotate(65deg);
+    opacity: 0.3;        
+  } 
+
+  50% { -moz-transform: rotate(20deg);
+    opacity: 1;        
+  } 
+
+  75% { -moz-transform: rotate(-20deg);
+    opacity: 0.3;        
+  } 
+  100% { -moz-transform: rotate(20deg);
+          opacity: 1;        
+  } 
 }

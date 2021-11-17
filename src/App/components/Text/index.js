@@ -7,7 +7,6 @@ const LoremIpsum = () => {
   return (
     <>
       <Text
-        onClick={console.log("hello!")}
         fontSize={1.2}
         font={FontFamily.Shippori}
         position={[-0.8, 0.9, 4]}
@@ -16,7 +15,6 @@ const LoremIpsum = () => {
         WELCOME
       </Text>  
       <Text
-        onClick={console.log("hello!")}
         fontSize={1}
         font={FontFamily.Shippori}
         position={[1.5, 1.8, 4]}
@@ -26,7 +24,6 @@ const LoremIpsum = () => {
         TO
       </Text>  
       <Text
-        onClick={console.log("hello!")}
         fontSize={2.3}
         font={FontFamily.Shippori}
         position={[3, 1.25, 4]}
@@ -35,7 +32,6 @@ const LoremIpsum = () => {
         M
       </Text>
       <Text
-        onClick={console.log("hello!")}
         fontSize={2.3}
         font={FontFamily.Shippori}
         position={[4, 1.25, 3.3]}
