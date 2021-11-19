@@ -23,6 +23,7 @@ const Keyboard = () => {
       <group ref={ref}
         onPointerEnter={() => setHover(true)}
         onPointerOut={() => setHover(false)}
+        onClick={() => document.getElementById('contact').style.display ="block"}
         position={[-2.97, 1.68, 0.2]}
         rotation={[-0.01, 0.26, -0.09]}
         scale={[0.15, 0.15, 0.38]}>

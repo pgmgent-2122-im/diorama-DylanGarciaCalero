@@ -160,6 +160,46 @@ const LoremIpsum = () => {
       >
         PROJECTS
       </Text>  
+      <Text
+        fontSize={0.7}
+        font={FontFamily.Shippori}
+        position={[-2.9, -0.5, 6]}
+        fillOpacity={0.3}
+        rotation={[-1.58, 0, 0]}
+        color="white"
+      >
+        Click on the
+      </Text>  
+      <Text
+        fontSize={1}
+        font={FontFamily.Shippori}
+        position={[-2.2, -0.5, 6.8]}
+        fillOpacity={0.3}
+        rotation={[-1.58, 0, 0]}
+        color="yellow"
+      >
+        KEYBOARD
+      </Text>  
+      <Text
+        fontSize={1}
+        font={FontFamily.Shippori}
+        position={[-0.95, -0.5, 7.7]}
+        fillOpacity={0.3}
+        rotation={[-1.58, 0, 0]}
+        color="white"
+      >
+        to get
+      </Text>  
+      <Text
+        fontSize={1}
+        font={FontFamily.Shippori}
+        position={[-1.8, -0.5, 8.7]}
+        fillOpacity={0.3}
+        rotation={[-1.58, 0, 0]}
+        color="red"
+      >
+        in TOUCH
+      </Text>  
     </>
   );
 };
