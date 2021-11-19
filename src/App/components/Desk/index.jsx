@@ -95,34 +95,6 @@ const Desk = () => {
             material={materials['Material.033']}
           />
         </group>
-        <group position={[-2.97, 1.67, 0.2]} rotation={[0, 0.26, -0.09]} scale={[0.15, 0.15, 0.38]}>
-          <mesh
-            castShadow
-            receiveShadow
-            geometry={nodes.Plane021.geometry}
-            material={materials['Material.065']}
-          />
-          <mesh
-            castShadow
-            receiveShadow
-            geometry={nodes.Plane021_1.geometry}
-            material={materials['Material.066']}
-          />
-          <mesh
-            castShadow
-            receiveShadow
-            geometry={nodes.Plane021_2.geometry}
-            material={materials['Material.067']}
-          />
-        </group>
-        <mesh
-          castShadow
-          receiveShadow
-          geometry={nodes.keyboardwire.geometry}
-          material={materials['Material.068']}
-          position={[-3.2, 1.67, 0.3]}
-          scale={[0.1, 0.1, 0.1]}
-        />
         <mesh
           castShadow
           receiveShadow

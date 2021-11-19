@@ -7,7 +7,9 @@ import Couch from "./components/Couch";
 import Table from "./components/Table";
 import Closet from "./components/Closet";
 import Desk from "./components/Desk";
-import Monitors from "./components/Monitors";
+import Monitor1 from "./components/Monitor1";
+import Monitor2 from "./components/Monitor2";
+import Keyboard from "./components/Keyboard";
 import WandPlank from "./components/WandPlank";
 import Prullenbak from "./components/Prullenbak";
 import Painting from "./components/Painting";
@@ -31,7 +33,9 @@ const Content = () => {
         <Table />
         <Closet />
         <Desk />
-        <Monitors />
+        <Monitor1 />
+        <Monitor2 />
+        <Keyboard />
         <WandPlank />
         <Prullenbak/>
         <Painting/>

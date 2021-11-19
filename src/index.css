@@ -245,3 +245,53 @@ to{opacity:1}
           opacity: 1;        
   } 
 }
+
+#projects {
+  display: none;
+  position: absolute;
+  right: 2rem;
+  top: 2rem;
+  height: 17.5rem;
+  width: 30rem;
+  background-color: rgba(240, 240, 239, 0.103);
+  border-radius: 1rem;
+  border-right: 1rem solid #292929;
+}
+
+#projects h2 {
+  padding-left: 1rem;
+  color: rgba(255, 255, 0, 0.226);
+}
+
+#close_button {
+  text-align: right;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.project-content {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.hover-info {
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  color: white;
+}
+
+.hover-info p {
+  font-size: 1rem;
+  margin: 1rem;
+}
+
+.hover-info ul {
+  list-style: none;
+  color: yellow;
+  border-left: 0.2rem solid yellow;
+}
+
+.hover-info h4 {
+  color: red;
+}
