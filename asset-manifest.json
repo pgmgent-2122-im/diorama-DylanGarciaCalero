@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/diorama-DylanGarciaCalero/static/css/main.f6655d20.chunk.css",
-    "main.js": "/diorama-DylanGarciaCalero/static/js/main.4025799d.chunk.js",
-    "main.js.map": "/diorama-DylanGarciaCalero/static/js/main.4025799d.chunk.js.map",
-    "runtime-main.js": "/diorama-DylanGarciaCalero/static/js/runtime-main.e5bd382d.js",
-    "runtime-main.js.map": "/diorama-DylanGarciaCalero/static/js/runtime-main.e5bd382d.js.map",
-    "static/js/2.2601c36e.chunk.js": "/diorama-DylanGarciaCalero/static/js/2.2601c36e.chunk.js",
-    "static/js/2.2601c36e.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/2.2601c36e.chunk.js.map",
-    "static/js/3.ca994dfa.chunk.js": "/diorama-DylanGarciaCalero/static/js/3.ca994dfa.chunk.js",
-    "static/js/3.ca994dfa.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/3.ca994dfa.chunk.js.map",
+    "main.css": "/diorama-DylanGarciaCalero/static/css/main.ca9db33c.chunk.css",
+    "main.js": "/diorama-DylanGarciaCalero/static/js/main.2f640bc8.chunk.js",
+    "main.js.map": "/diorama-DylanGarciaCalero/static/js/main.2f640bc8.chunk.js.map",
+    "runtime-main.js": "/diorama-DylanGarciaCalero/static/js/runtime-main.f929a20d.js",
+    "runtime-main.js.map": "/diorama-DylanGarciaCalero/static/js/runtime-main.f929a20d.js.map",
+    "static/js/2.f7788b2f.chunk.js": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js",
+    "static/js/2.f7788b2f.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js.map",
+    "static/js/3.40f2dc61.chunk.js": "/diorama-DylanGarciaCalero/static/js/3.40f2dc61.chunk.js",
+    "static/js/3.40f2dc61.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/3.40f2dc61.chunk.js.map",
     "index.html": "/diorama-DylanGarciaCalero/index.html",
-    "static/css/main.f6655d20.chunk.css.map": "/diorama-DylanGarciaCalero/static/css/main.f6655d20.chunk.css.map",
-    "static/js/2.2601c36e.chunk.js.LICENSE.txt": "/diorama-DylanGarciaCalero/static/js/2.2601c36e.chunk.js.LICENSE.txt",
+    "static/css/main.ca9db33c.chunk.css.map": "/diorama-DylanGarciaCalero/static/css/main.ca9db33c.chunk.css.map",
+    "static/js/2.f7788b2f.chunk.js.LICENSE.txt": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js.LICENSE.txt",
     "static/media/ClockContainer.62dce34d.glb": "/diorama-DylanGarciaCalero/static/media/ClockContainer.62dce34d.glb",
     "static/media/Closet.ba43ec05.glb": "/diorama-DylanGarciaCalero/static/media/Closet.ba43ec05.glb",
     "static/media/Desk.6b4abecd.glb": "/diorama-DylanGarciaCalero/static/media/Desk.6b4abecd.glb",
-    "static/media/Monitors.ac90d83e.glb": "/diorama-DylanGarciaCalero/static/media/Monitors.ac90d83e.glb",
+    "static/media/Keyboard.dc47c912.glb": "/diorama-DylanGarciaCalero/static/media/Keyboard.dc47c912.glb",
+    "static/media/Monitor1.7283db38.glb": "/diorama-DylanGarciaCalero/static/media/Monitor1.7283db38.glb",
+    "static/media/Monitor2.f1fe4610.glb": "/diorama-DylanGarciaCalero/static/media/Monitor2.f1fe4610.glb",
     "static/media/Painting.109f7110.glb": "/diorama-DylanGarciaCalero/static/media/Painting.109f7110.glb",
     "static/media/Prullenbak.4b2f7f62.glb": "/diorama-DylanGarciaCalero/static/media/Prullenbak.4b2f7f62.glb",
     "static/media/Table.51a30b48.glb": "/diorama-DylanGarciaCalero/static/media/Table.51a30b48.glb",
@@ -24,9 +26,9 @@
     "static/media/room.221a21e6.glb": "/diorama-DylanGarciaCalero/static/media/room.221a21e6.glb"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5bd382d.js",
-    "static/js/2.2601c36e.chunk.js",
-    "static/css/main.f6655d20.chunk.css",
-    "static/js/main.4025799d.chunk.js"
+    "static/js/runtime-main.f929a20d.js",
+    "static/js/2.f7788b2f.chunk.js",
+    "static/css/main.ca9db33c.chunk.css",
+    "static/js/main.2f640bc8.chunk.js"
   ]
 }
