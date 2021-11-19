@@ -110,6 +110,56 @@ const LoremIpsum = () => {
       >
         |
       </Text>   
+      <Text
+        fontSize={0.8}
+        font={FontFamily.Shippori}
+        position={[4, -1, -2.1]}
+        fillOpacity={0.1}
+        rotation={[0, 1.58, 0]}
+        color="white"
+      >
+        Click on
+      </Text>   
+      <Text
+        fontSize={0.8}
+        font={FontFamily.Shippori}
+        position={[4, -1.7, -0.8]}
+        fillOpacity={0.1}
+        rotation={[0, 1.58, 0]}
+        color="white"
+      >
+        The left monitor
+      </Text>   
+      <Text
+        fontSize={1.5}
+        font={FontFamily.Shippori}
+        position={[4, -1.4, -4.5]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="white"
+      >
+        TO
+      </Text>   
+      <Text
+        fontSize={0.8}
+        font={FontFamily.Shippori}
+        position={[4, 0.7, -4.75]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 1.58]}
+        color="white"
+      >
+        pen my
+      </Text>  
+      <Text
+        fontSize={1.1}
+        font={FontFamily.Shippori}
+        position={[4, 0.7, -6.05]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 1.58]}
+        color="yellow"
+      >
+        PROJECTS
+      </Text>  
     </>
   );
 };
