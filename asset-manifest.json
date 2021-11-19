@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/diorama-DylanGarciaCalero/static/css/main.ca9db33c.chunk.css",
-    "main.js": "/diorama-DylanGarciaCalero/static/js/main.6f92498f.chunk.js",
-    "main.js.map": "/diorama-DylanGarciaCalero/static/js/main.6f92498f.chunk.js.map",
+    "main.css": "/diorama-DylanGarciaCalero/static/css/main.91c71dfa.chunk.css",
+    "main.js": "/diorama-DylanGarciaCalero/static/js/main.392fc1e0.chunk.js",
+    "main.js.map": "/diorama-DylanGarciaCalero/static/js/main.392fc1e0.chunk.js.map",
     "runtime-main.js": "/diorama-DylanGarciaCalero/static/js/runtime-main.f929a20d.js",
     "runtime-main.js.map": "/diorama-DylanGarciaCalero/static/js/runtime-main.f929a20d.js.map",
-    "static/js/2.f7788b2f.chunk.js": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js",
-    "static/js/2.f7788b2f.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js.map",
+    "static/js/2.dd5e091a.chunk.js": "/diorama-DylanGarciaCalero/static/js/2.dd5e091a.chunk.js",
+    "static/js/2.dd5e091a.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/2.dd5e091a.chunk.js.map",
     "static/js/3.40f2dc61.chunk.js": "/diorama-DylanGarciaCalero/static/js/3.40f2dc61.chunk.js",
     "static/js/3.40f2dc61.chunk.js.map": "/diorama-DylanGarciaCalero/static/js/3.40f2dc61.chunk.js.map",
     "index.html": "/diorama-DylanGarciaCalero/index.html",
-    "static/css/main.ca9db33c.chunk.css.map": "/diorama-DylanGarciaCalero/static/css/main.ca9db33c.chunk.css.map",
-    "static/js/2.f7788b2f.chunk.js.LICENSE.txt": "/diorama-DylanGarciaCalero/static/js/2.f7788b2f.chunk.js.LICENSE.txt",
+    "static/css/main.91c71dfa.chunk.css.map": "/diorama-DylanGarciaCalero/static/css/main.91c71dfa.chunk.css.map",
+    "static/js/2.dd5e091a.chunk.js.LICENSE.txt": "/diorama-DylanGarciaCalero/static/js/2.dd5e091a.chunk.js.LICENSE.txt",
     "static/media/ClockContainer.62dce34d.glb": "/diorama-DylanGarciaCalero/static/media/ClockContainer.62dce34d.glb",
     "static/media/Closet.ba43ec05.glb": "/diorama-DylanGarciaCalero/static/media/Closet.ba43ec05.glb",
     "static/media/Desk.6b4abecd.glb": "/diorama-DylanGarciaCalero/static/media/Desk.6b4abecd.glb",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f929a20d.js",
-    "static/js/2.f7788b2f.chunk.js",
-    "static/css/main.ca9db33c.chunk.css",
-    "static/js/main.6f92498f.chunk.js"
+    "static/js/2.dd5e091a.chunk.js",
+    "static/css/main.91c71dfa.chunk.css",
+    "static/js/main.392fc1e0.chunk.js"
   ]
 }
