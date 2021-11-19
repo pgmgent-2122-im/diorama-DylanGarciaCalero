@@ -50,6 +50,66 @@ const LoremIpsum = () => {
       >
         PORTFOLIO
       </Text>          
+      <Text
+        fontSize={0.7}
+        font={FontFamily.Shippori}
+        position={[-4.5, 8.3, 9.7]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="yellow"
+      >
+        Hover over the
+      </Text>         
+      <Text
+        fontSize={0.7}
+        font={FontFamily.Shippori}
+        position={[-4.5, 7.6, 10.7]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="red"
+      >
+        Keyboard or Monitors
+      </Text>      
+      <Text
+        fontSize={1.1}
+        font={FontFamily.Shippori}
+        position={[-4.5, 6.7, 8]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="white"
+      >
+        TO
+      </Text>    
+      <Text
+        fontSize={0.7}
+        font={FontFamily.Shippori}
+        position={[-4.5, 6, 8.8]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="red"
+      >
+        see hover
+      </Text>   
+      <Text
+        fontSize={1.3}
+        font={FontFamily.Shippori}
+        position={[-4.5, 5, 11]}
+        fillOpacity={0.3}
+        rotation={[0, 1.58, 0]}
+        color="yellow"
+      >
+        ANIMATIONS
+      </Text>   
+      <Text
+        fontSize={8}
+        font={FontFamily.Shippori}
+        position={[-4.5, 8.3, 6.5]}
+        fillOpacity={0.1}
+        rotation={[0, 1.58, 0]}
+        color="white"
+      >
+        |
+      </Text>   
     </>
   );
 };

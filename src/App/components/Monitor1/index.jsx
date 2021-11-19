@@ -28,7 +28,7 @@ const Monitor1 = () => {
 
       let close = document.getElementById('close_button');
       close.addEventListener('click', function() {
-        projects.style.display = "none";
+        setShowProjects(false);
       })
   })
 
